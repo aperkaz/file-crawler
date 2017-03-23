@@ -5,7 +5,7 @@ Created to easy the finding of media content (music, photos...) dispersed throw 
 
 ## Execution
 
-- `java -jar FileCrawler.jar "sourceDir" "outputDir" fileType copyFiles`
+- `java -jar FileCrawler.jar "sourceDir" "outputDir" [fileType] [copyFiles]`
 
 ## Examples
 
