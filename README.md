@@ -5,9 +5,9 @@ Created to easy the finding of media content (music, photos...) dispersed throw 
 
 ## Execution
 
-- java -jar FileCrawler.jar "sourceDir" "outputDir" fileType copyFiles
+- `java -jar FileCrawler.jar "sourceDir" "outputDir" fileType copyFiles`
 
 ## Examples
 
-- java -jar FileCrawler.jar "C:\\\Music" "D:\\\Output" mp3 false
-- java -jar FileCrawler.jar "C:\\\Video" "D:\\\Output" avi true
+- `java -jar FileCrawler.jar "C:\\\Music" "D:\\\Output" mp3 false`
+- `java -jar FileCrawler.jar "C:\\\Video" "D:\\\Output" avi true`
