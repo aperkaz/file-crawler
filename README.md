@@ -1,6 +1,6 @@
 # file-crawler
 
-Scans recursively the given file system path and copies specific files types on designated directory.
+Scans recursively the given file system path and copies specific files types on designated directory.<br/>
 Created to easy the finding of media content (music, photos...) dispersed throw a system and extract it.
 
 ## Execution
