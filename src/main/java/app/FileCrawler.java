@@ -9,9 +9,6 @@ import java.util.Properties;
 
 import org.apache.commons.io.FileUtils;
 
-/**
- * Created by alain on 23/01/2017.
- */
 public class FileCrawler {
 
 	static private ArrayList<File> fileList;
@@ -42,7 +39,6 @@ public class FileCrawler {
 					String[] type = file.getName().toString().split("\\.(?=[^\\.]+$)");
 					if (type.length > 1) {
 						if (type[1].equals(fileType)) {
-							//System.out.println("File: " + file.getName());
 							fileList.add(file);
 						}
 					}

@@ -6,19 +6,8 @@ import java.io.InputStream;
 import java.util.Date;
 import java.util.Properties;
 
-/**
- * Hello world!
- *
- */
 public class App {
-	
-	/*
-	static String sourceDir = "D:\\";
-    static String outputDir = "C:\\Users\\alain\\Downloads\\Output";
-    static String fileType = "mp3"; // png, jpg ...
-    static boolean copy = false;
-	 */
-	
+		
     static String sourceDir;
     static String outputDir;
     static String fileType;
